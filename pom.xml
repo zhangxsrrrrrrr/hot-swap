@@ -22,13 +22,6 @@
             <artifactId>jforgame-doctor</artifactId>
             <version>1.0.0</version>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.apache.groovy/groovy -->
-        <dependency>
-            <groupId>org.apache.groovy</groupId>
-            <artifactId>groovy</artifactId>
-            <version>4.0.26</version>
-        </dependency>
     </dependencies>
 
     <repositories>
